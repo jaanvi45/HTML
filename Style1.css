@@ -1,0 +1,383 @@
+.main{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+}
+
+.one{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a{
+    height: 100px;
+    width: 200px;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border: 1px solid black;
+}
+
+.b{
+    height: 100px;
+    width: 200px;
+    background-color: darkgoldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.two{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c{
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.d{
+    height: 100px;
+    width: 200px;
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.three{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.e{
+    height: 100px;
+    width: 200px;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border: 1px solid black;
+}
+
+.f{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.four{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.g{
+    height: 100px;
+    width: 200px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border: 1px solid black;
+}
+
+.h{
+    height: 100px;
+    width: 200px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.first{
+    height: 100px;
+    width: 400px;
+    display: flex;
+}
+.one1{
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+    display: flex;
+}
+
+.two2{
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    display: flex;
+}
+
+.second{
+    height: 200px;
+    width: 400px;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.third{
+    height: 200px;
+    width: 400px;
+    display: flex;
+}
+
+.four4{
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: rebeccapurple;
+    display: flex;
+}
+
+.five5{
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+    display: flex;
+}
+
+#one{
+    height: 125px;
+    width: 400px;
+    display: flex;
+}
+
+#a{
+    height: 125px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+#b{
+    height: 125px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+#two{
+    height: 150px;
+    width: 400px;
+    display: flex;
+}
+
+#c{
+    height: 150px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+#d{
+    height: 150px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+
+#three{
+    height: 125px;
+    width: 400px;
+    display: flex;
+}
+
+#e{
+    height: 125px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+
+#f{
+    height: 125px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+}
+
+#g{
+    height: 125px;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:crimson ;
+}
+
+
+#one1{
+    height: 125px;
+    width: 400px;
+    display: flex;
+}
+
+#A{
+    height: 125px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+#B{
+    height: 125px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+#two2{
+    height: 125px;
+    width: 400px;
+    display: flex;
+}
+
+#C{
+    height: 125px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+
+#D{
+    height: 125px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+}
+
+#E{
+    height: 125px;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:crimson ;
+}
+
+#three3{
+    height: 150px;
+    width: 400px;
+    display: flex;
+}
+
+#F{
+    height: 150px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+#G{
+    height: 150px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+
+#first{
+    height: 150px;
+    width: 400px;
+    display: flex;
+}
+
+#O{
+    height: 150px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue; 
+}
+
+#P{
+    height: 300px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+#second{
+    height: 150px;
+    width: 400px;
+    display: flex;
+}
+
+#Q{
+    height: 150px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+
+#third{
+    height: 100px;
+    width: 400px;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
